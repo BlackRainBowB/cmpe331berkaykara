@@ -1,3 +1,9 @@
+"""
+stage : development 01
+@author :Berkay Bara - 118200037
+@author :Bukre Yağmur Türkoğlu - 119200054
+"""
+
 import pandas as pd
 import requests
 import re
